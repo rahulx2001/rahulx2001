@@ -2,7 +2,6 @@
 
 Data-driven analyst skilled in SQL, Python, Power BI. Expertise in insights generation, visualization.
 
-<## Coder GIF
 
 ![Coder GIF](https://example.com/coder.gif)!--
 
@@ -20,9 +19,6 @@ Data-driven analyst skilled in SQL, Python, Power BI. Expertise in insights gene
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## GitHub Stats
-
-![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulx2001&show_icons=true&theme=radical)
 
 ## Top Languages
 
