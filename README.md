@@ -3,7 +3,7 @@
 Data-driven analyst skilled in SQL, Python, Power BI. Expertise in insights generation, visualization.
 
 
-![Coder GIF](https://example.com/coder.gif)!--
+![Coder GIF](https://example.com/coder.gif)
 
 ## About Me
 
@@ -12,7 +12,7 @@ Data-driven analyst skilled in SQL, Python, Power BI. Expertise in insights gene
 
 - ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-singh-8906b8232/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-singh-8906b8232/)
 
 ## Languages and Tools
 
