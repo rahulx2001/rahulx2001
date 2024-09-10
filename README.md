@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Kumar Singh
 
-<!--
-**rahulx2001/rahulx2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-driven analyst skilled in SQL, Python, Power BI. Expertise in insights generation, visualization.
 
-Here are some ideas to get you started:
+<## Coder GIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Coder GIF](https://example.com/coder.gif)!--
+
+## About Me
+
+- 💬 Ask me about SQL, PowerBI, Python
+- 📫 How to reach me: [rahulsinghx2001@gmail.com](mailto:rahulsinghx2001@gmail.com)
+
+- ## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-singh-8906b8232/))
+
+## Languages and Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## GitHub Stats
+
+![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulx2001&show_icons=true&theme=radical)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulx2001&layout=compact)](https://github.com/rahulx2001)
