@@ -98,10 +98,16 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=rahulx2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulx2001&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="48%" />
+<a href="https://github.com/rahulx2001">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulx2001&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/rahulx2001">
+  <img src="https://streak-stats.demolab.com/?user=rahulx2001&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulx2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff" width="40%" />
+<a href="https://github.com/rahulx2001">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulx2001&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+</a>
 
 </div>
 
