@@ -74,9 +74,9 @@ me.say_hi()
 |---------|-------------|------------|
 | 🍕 [**ZestyEats Analysis**](https://github.com/rahulx2001/ZestyEatsAnalysis) | Analyzed 50K+ orders across 15+ locations | Power BI, Analytics |
 | 🔍 [**Hidden Transactions**](https://github.com/rahulx2001/Hidden-Transactions-A-Data-Driven-Investigation) | Fraud detection with 40% false positive reduction | Python, Pandas |
-| 📊 [**Financial Risk Dashboard**](https://github.com/rahulx2001/Financial-Risk-Analysis-Dashboard) | $2M+ portfolio tracking, 60% time saved | Power BI, Dashboard |
+| 📊 [**Financial Risk Dashboard**](https://github.com/rahulx2001/Financial-Risk-Analysis-Dashboard) | $1k+ portfolio tracking, 60% time saved | Power BI, Dashboard |
 | 🛒 [**E-Commerce Insights**](https://github.com/rahulx2001/E-Commerce-Performance-Insights) | 75K+ transactions, 25% ROI improvement | Power BI, Analysis |
-| 🏗️ [**Data Warehouse**](https://github.com/rahulx2001/Data-Analytics-project) | Medallion Architecture, 500K+ records | SQL, ETL |
+| 🏗️ [**Data Warehouse**](https://github.com/rahulx2001/Data-Analytics-project) | Medallion Architecture, 50K+ records | SQL, ETL |
 
 </div>
 
